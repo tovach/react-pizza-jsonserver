@@ -1,14 +1,64 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "id": 0,
+      "title": "Ветчина и сыр",
+      "img": "https://cdn.dodopizza.net/static/Img/Products/Pizza/ru-RU/679924dc-e4fd-45fd-aceb-be139f265425.jpg",
+      "price": 315,
+      "dough": [
+        { "value": "Тонкое", "availability": true },
+        { "value": "Традиционное", "availability": true }
+      ],
+      "size": [
+        { "value": "26см", "availability": true },
+        { "value": "30см", "availability": true },
+        { "value": "40см", "availability": true }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Карбонара",
+      "img": "https://cdn.dodopizza.net/static/Img/Products/7a0fac09c2264f8e8928f205c7acb5cf_292x292.jpeg",
+      "price": 315,
+      "dough": [
+        { "value": "Тонкое", "availability": false },
+        { "value": "Традиционное", "availability": true }
+      ],
+      "size": [
+        { "value": "26см", "availability": true },
+        { "value": "30см", "availability": false },
+        { "value": "40см", "availability": true }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Пепперони",
+      "img": "https://cdn.dodopizza.net/static/Img/Products/80af1cf2138447b4a9afc30df6af712c_292x292.jpeg",
+      "price": 315,
+      "dough": [
+        { "value": "Тонкое", "availability": true },
+        { "value": "Традиционное", "availability": true }
+      ],
+      "size": [
+        { "value": "26см", "availability": true },
+        { "value": "30см", "availability": true },
+        { "value": "40см", "availability": true }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Диабло",
+      "img": "https://cdn.dodopizza.net/static/Img/Products/2c7a83e078b44156a7ad774389ed7713_292x292.jpeg",
+      "price": 315,
+      "dough": [
+        { "value": "Тонкое", "availability": false },
+        { "value": "Традиционное", "availability": true }
+      ],
+      "size": [
+        { "value": "26см", "availability": true },
+        { "value": "30см", "availability": false },
+        { "value": "40см", "availability": false }
+      ]
+    }
+  ]
 }
