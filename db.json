@@ -21,12 +21,10 @@
       "img": "https://cdn.dodopizza.net/static/Img/Products/7a0fac09c2264f8e8928f205c7acb5cf_292x292.jpeg",
       "price": 415,
       "dough": [
-        { "value": "Тонкое", "availability": false },
         { "value": "Традиционное", "availability": true }
       ],
       "size": [
         { "value": "26см", "availability": true },
-        { "value": "30см", "availability": false },
         { "value": "40см", "availability": true }
       ]
     },
@@ -51,13 +49,10 @@
       "img": "https://cdn.dodopizza.net/static/Img/Products/2c7a83e078b44156a7ad774389ed7713_292x292.jpeg",
       "price": 515,
       "dough": [
-        { "value": "Тонкое", "availability": false },
         { "value": "Традиционное", "availability": true }
       ],
       "size": [
         { "value": "26см", "availability": true },
-        { "value": "30см", "availability": false },
-        { "value": "40см", "availability": false }
       ]
     }
   ]
