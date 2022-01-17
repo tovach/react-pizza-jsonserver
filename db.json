@@ -237,23 +237,6 @@
         { "value": "30см", "availability": true },
         { "value": "40см", "availability": true }
       ]
-    },
-    {
-      "id": 14,
-      "title": "Цыпленок барбекю",
-      "description": "Цыпленок, бекон, соус барбекю, красный лук, моцарелла, томатный соус",
-      "category": ["мясная", "барбекю"],
-      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/6efc2093bc244329918b9b44dc960852_292x292.jpeg",
-      "price": 599,
-      "dough": [
-        { "value": "Тонкое", "availability": true },
-        { "value": "Традиционное", "availability": true }
-      ],
-      "size": [
-        { "value": "26см", "availability": true },
-        { "value": "30см", "availability": true },
-        { "value": "40см", "availability": true }
-      ]
     }
   ]
 }
